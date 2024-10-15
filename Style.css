@@ -1,27 +1,28 @@
 body {
-background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 }
 
 header {
-display: flex;
-width: 100%;
-justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
 }
 
 .nav-lista {
-list-style: none;
-color: blue;
-font-size: 40px;
-text-transform: uppercase;
-justify-content: center;
-align-items: center;
-gap: 28px;
+    display: flex;
+    list-style: none;
+    color: blue;
+    font-size: 40px;
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
 }
 
 
-.nav-item:hover{
-cursor: pointer;
-background-color:black ;
-color: white;
+.nav-item:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
 
 }
