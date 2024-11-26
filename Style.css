@@ -36,3 +36,7 @@ section {
     padding-top: 8%;
     padding-right: %
 }
+
+.molduras videos
+display:flex;
+flex-wrap:Wrap;
